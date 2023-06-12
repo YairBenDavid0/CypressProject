@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://nxtgenaiacademy.com/demo-site/",
+  "video": false,
+  "screenshotsFolder": "cypress/screenshots",
+  "integrationFolder": "./cypress/e2e",
+  "supportFile": "./cypress/support",
+  "pluginsFile": "./cypress/plugins/index.js"
+}
